@@ -1,20 +1,21 @@
 {
   "files": {
     "main.css": "/desafio-final-shopping-car/static/css/main.6dea0f05.chunk.css",
-    "main.js": "/desafio-final-shopping-car/static/js/main.47828e91.chunk.js",
-    "main.js.map": "/desafio-final-shopping-car/static/js/main.47828e91.chunk.js.map",
+    "main.js": "/desafio-final-shopping-car/static/js/main.a4fbe562.chunk.js",
+    "main.js.map": "/desafio-final-shopping-car/static/js/main.a4fbe562.chunk.js.map",
     "runtime-main.js": "/desafio-final-shopping-car/static/js/runtime-main.6498f4e4.js",
     "runtime-main.js.map": "/desafio-final-shopping-car/static/js/runtime-main.6498f4e4.js.map",
-    "static/js/2.e886edac.chunk.js": "/desafio-final-shopping-car/static/js/2.e886edac.chunk.js",
-    "static/js/2.e886edac.chunk.js.map": "/desafio-final-shopping-car/static/js/2.e886edac.chunk.js.map",
+    "static/js/2.851fb107.chunk.js": "/desafio-final-shopping-car/static/js/2.851fb107.chunk.js",
+    "static/js/2.851fb107.chunk.js.map": "/desafio-final-shopping-car/static/js/2.851fb107.chunk.js.map",
     "index.html": "/desafio-final-shopping-car/index.html",
     "static/css/main.6dea0f05.chunk.css.map": "/desafio-final-shopping-car/static/css/main.6dea0f05.chunk.css.map",
-    "static/js/2.e886edac.chunk.js.LICENSE.txt": "/desafio-final-shopping-car/static/js/2.e886edac.chunk.js.LICENSE.txt"
+    "static/js/2.851fb107.chunk.js.LICENSE.txt": "/desafio-final-shopping-car/static/js/2.851fb107.chunk.js.LICENSE.txt",
+    "static/media/add.8a50c913.svg": "/desafio-final-shopping-car/static/media/add.8a50c913.svg"
   },
   "entrypoints": [
     "static/js/runtime-main.6498f4e4.js",
-    "static/js/2.e886edac.chunk.js",
+    "static/js/2.851fb107.chunk.js",
     "static/css/main.6dea0f05.chunk.css",
-    "static/js/main.47828e91.chunk.js"
+    "static/js/main.a4fbe562.chunk.js"
   ]
 }
