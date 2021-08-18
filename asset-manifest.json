@@ -1,8 +1,8 @@
 {
   "files": {
     "main.css": "/desafio-final-shopping-car/static/css/main.6dea0f05.chunk.css",
-    "main.js": "/desafio-final-shopping-car/static/js/main.f74e719e.chunk.js",
-    "main.js.map": "/desafio-final-shopping-car/static/js/main.f74e719e.chunk.js.map",
+    "main.js": "/desafio-final-shopping-car/static/js/main.24a93a44.chunk.js",
+    "main.js.map": "/desafio-final-shopping-car/static/js/main.24a93a44.chunk.js.map",
     "runtime-main.js": "/desafio-final-shopping-car/static/js/runtime-main.6498f4e4.js",
     "runtime-main.js.map": "/desafio-final-shopping-car/static/js/runtime-main.6498f4e4.js.map",
     "static/js/2.b0f75918.chunk.js": "/desafio-final-shopping-car/static/js/2.b0f75918.chunk.js",
@@ -17,6 +17,6 @@
     "static/js/runtime-main.6498f4e4.js",
     "static/js/2.b0f75918.chunk.js",
     "static/css/main.6dea0f05.chunk.css",
-    "static/js/main.f74e719e.chunk.js"
+    "static/js/main.24a93a44.chunk.js"
   ]
 }
